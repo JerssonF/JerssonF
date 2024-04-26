@@ -40,8 +40,9 @@
 
  ## Las estadísticas del repositorio
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerssonF&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=dark)
 ![JerssonF GitHub stats](https://github-readme-stats.vercel.app/api?username=JerssonF&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerssonF&hide_progress=true&theme=dark)
+
 <!--
 **JerssonF/JerssonF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

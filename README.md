@@ -2,9 +2,14 @@
 
 ![Banner de Jersson Fabián Buitrago](Img/banner.png)
 
+
+![Location](https://img.shields.io/badge/Ubicación-Neiva,%20Huila,%20Colombia-%22FF0000.svg?style=for-the-badge&logo=Location)
+![Teléfono](https://img.shields.io/badge/Teléfono-313438020-%23FF0000.svg?style=for-the-badge&logo=Teléfono)
+
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/6/#inbox)
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/w/parcial48/home)
-[![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](Teléfono:)
+
 
 <!--
 **JerssonF/JerssonF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

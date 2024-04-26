@@ -10,6 +10,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/6/#inbox)
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/w/parcial48/home)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JerssonF/JerssonF)
 
 #### En este espacio encontrarán los proyectos durante mi formación académica.
 
@@ -36,6 +37,9 @@
  ## Other 🥅
  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+ ## Las estadísticas del repositorio
+![JerssonF' GitHub stats](https://github-readme-stats.vercel.app/api?username=JerssonF&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerssonF&layout=compact&theme=dark)
 
 
 

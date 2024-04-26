@@ -5,7 +5,7 @@
 
 ![Location](https://img.shields.io/badge/Ubicación-Neiva,%20Huila,%20Colombia-%22FF0000.svg?style=for-the-badge&logo=Location)
 ![Teléfono](https://img.shields.io/badge/Teléfono-313438020-%23FF0000.svg?style=for-the-badge&logo=Teléfono)
- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](3133438020)
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/6/#inbox)

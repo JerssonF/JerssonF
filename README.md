@@ -39,12 +39,9 @@
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
  ## Las estadísticas del repositorio
-![Jersson Fabián Buitrago GitHub stats](https://github-readme-stats.vercel.app/api?username=JerssonF&show_icons=true&theme=dark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerssonF&layout=compact&theme=dark)
 
-
-
-
+![JerssonF GitHub stats](https://github-readme-stats.vercel.app/api?username=JerssonF&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerssonF&hide_progress=true&theme=dark)
 <!--
 **JerssonF/JerssonF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

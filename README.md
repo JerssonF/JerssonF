@@ -39,9 +39,8 @@
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
  ## Las estadísticas del repositorio
-![JerssonF' GitHub stats](https://github-readme-stats.vercel.app/api?username=JerssonF&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerssonF&layout=compact&theme=dark)
-
-
+![Jersson Fabián Buitrago GitHub stats](https://github-readme-stats.vercel.app/api?username=JerssonF&show_icons=true&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerssonF&layout=compact&theme=dark)
 
 
 

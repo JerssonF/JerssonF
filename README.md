@@ -12,7 +12,7 @@
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/w/parcial48/home)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JerssonF/JerssonF)
 
-#### En este espacio encontrarán los proyectos durante mi formación académica.
+#### En este espacio encontrarán los proyectos y respositorios, durante mi formación académica.
 
 ##  Languages 📋
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

@@ -3,6 +3,6 @@
 ## IV SEMESTRE 2024A
 
 * [Análisis de sistemas](AN-LISIS-DE-SISTEMAS)
-* [Base de datos](Base-de-datos-I)
+* [Base de datos I](Base-de-datos-I)
 * [Programación II](Programaci-n-II)
-* [Programación](Programaci-n-III)
+* [Programación III](Programaci-n-III)

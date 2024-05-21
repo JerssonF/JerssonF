@@ -13,8 +13,6 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JerssonF/JerssonF)
 
 #### En este espacio encontrarán los proyectos y respositorios, durante mi formación académica.
-
-  * [UNIVERSIDAD CORHUILA](FORMACION)
   
 
 ##  Languages 📋

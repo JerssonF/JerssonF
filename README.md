@@ -14,7 +14,7 @@
 
 #### En este espacio encontrarán los proyectos y respositorios, durante mi formación académica.
 
-  * ![Miformación universitaria](Aprendizaje)
+  * [UNIVERSIDAD CORHUILA](FORMACION)
   
 
 ##  Languages 📋

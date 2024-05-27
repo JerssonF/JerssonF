@@ -13,6 +13,10 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JerssonF/JerssonF)
 
 #### En este espacio encontrarán los proyectos y respositorios, durante mi formación académica.
+## Mi formación Universitaria.
+* III Semetre 2023b
+  
+  [Programación II](https://github.com/JerssonF/Programacion_II.git)
   
 
 ##  Languages 📋

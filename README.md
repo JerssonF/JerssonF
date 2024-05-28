@@ -14,10 +14,12 @@
 
 #### En este espacio encontrarán los proyectos y respositorios, durante mi formación académica.
 ## Mi formación Universitaria.
-* III Semetre 2023b 
+
+#### Corporación Universitaria del Huila-Corhuila.
+* III Semetre 2023b
   * [Programación II](https://github.com/JerssonF/Programacion_II.git)
   
-  
+    
 * IV Semestre 2024a 
   * [Análisis de Sistemas](https://github.com/JerssonF/Analisis_de_sistemas.git)
   * [Base de Datos I](https://github.com/JerssonF/Base-de-datos-I.git)

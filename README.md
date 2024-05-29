@@ -12,10 +12,11 @@
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/w/parcial48/home)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JerssonF/JerssonF)
 
+
+
+## Corporación Universitaria del Huila-Corhuila.
 #### En este espacio encontrarán los proyectos y respositorios, durante mi formación académica.
 ## Mi formación Universitaria.
-
-#### Corporación Universitaria del Huila-Corhuila.
 * III Semetre 2023b
   * [Programación II](https://github.com/JerssonF/Programacion_II.git)
   

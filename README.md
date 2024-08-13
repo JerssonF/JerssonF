@@ -29,6 +29,7 @@
 
 ## V Semestre 2024b
 * [Programación móvil](https://github.com/JerssonF/Programacion_movil.git)
+* [Diseño de Sistemas](https://github.com/JerssonF/Diseno_de_Sistemas.git)
  
 
   

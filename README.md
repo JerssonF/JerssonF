@@ -49,6 +49,7 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
 
 
 ##  Databases 💾

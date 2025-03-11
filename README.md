@@ -35,11 +35,11 @@
 * [Bases de Datos II](https://github.com/JerssonF/Base_de_Datos_II.git)
 * [Probabilidad y Estadística](https://github.com/JerssonF/Probabilidad_Estadistica.git)
 
-## VI Semestr 2025a
+## VI Semestre 2025a
 * [Arquitectura de Software](https://github.com/JerssonF/Arquitectura_de_Software.git)
 * [Microcontroladores](https://github.com/JerssonF/Microcontroladores.git)
 * [Análisis Financiero](https://github.com/JerssonF/Análisis_Financiero.git)
-* [Telematica I.](https://github.com/JerssonF/Telematica_I.git)
+* [Telematica I.](https://github.com/JerssonF/Telem-tica.git)
 * [Metodología de la Investigación](https://github.com/JerssonF/Metodología_de_la_Investigación.git)
 * [Sistemas Operativos](https://github.com/JerssonF/Sistemas_Operativos.git)
  

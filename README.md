@@ -1,6 +1,115 @@
 # <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="150"/> Bienvenid@ a mi Github.
 
-![Banner de Jersson Fabián Buitrago](Img/banner.png)
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Banner Interactivo</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { overflow: hidden; }
+    
+    #banner {
+      position: relative;
+      width: 100vw;
+      height: 40vh;
+      /* Fondo de algoritmos: código binario con baja opacidad */
+      background: 
+        linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+        url('https://cdn.pixabay.com/photo/2017/02/21/07/17/binary-2088690_1280.jpg') 
+        center/cover no-repeat;
+    }
+    #banner canvas {
+      position: absolute;
+      top: 0; left: 0;
+    }
+    #banner .content {
+      position: relative;
+      z-index: 1;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: #0f0;
+      font-family: 'Courier New', monospace;
+      text-align: center;
+      text-shadow: 0 0 8px rgba(0,255,0,0.7);
+    }
+    #banner h1 { font-size: 3rem; }
+    #banner p  { font-size: 1.2rem; color: #fff; }
+  </style>
+</head>
+<body>
+
+<div id="banner">
+  <canvas></canvas>
+  <div class="content">
+    <h1>¡Hola! Soy Jersson Fabián Buitrago</h1>
+    <p>Estudiante de Ingeniería de Sistemas – Corhuila</p>
+  </div>
+</div>
+
+<script>
+  const canvas = document.querySelector('#banner canvas');
+  const ctx    = canvas.getContext('2d');
+  let w, h, particles;
+
+  function init() {
+    resize();
+    particles = [];
+    for (let i = 0; i < 80; i++) {
+      particles.push({
+        x: Math.random() * w,
+        y: Math.random() * h,
+        vx: (Math.random() - 0.5) * 0.5,
+        vy: (Math.random() - 0.5) * 0.5,
+        size: Math.random() * 2 + 1
+      });
+    }
+    animate();
+  }
+
+  function resize() {
+    w = canvas.width  = window.innerWidth;
+    h = canvas.height = window.innerHeight * 0.4;
+  }
+  window.addEventListener('resize', resize);
+
+  function animate() {
+    ctx.clearRect(0, 0, w, h);
+    particles.forEach(p => {
+      p.x += p.vx;
+      p.y += p.vy;
+      if (p.x < 0 || p.x > w) p.vx *= -1;
+      if (p.y < 0 || p.y > h) p.vy *= -1;
+      ctx.beginPath();
+      ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
+      ctx.fillStyle = '#0f0';
+      ctx.fill();
+    });
+    requestAnimationFrame(animate);
+  }
+
+  window.addEventListener('mousemove', e => {
+    particles.forEach(p => {
+      const dx = e.clientX - p.x;
+      const dy = e.clientY - p.y;
+      const dist = Math.hypot(dx, dy);
+      if (dist < 100) {
+        p.vx -= dx * 0.0005;
+        p.vy -= dy * 0.0005;
+      }
+    });
+  });
+
+  init();
+</script>
+
+</body>
+</html>
+
 
 
 ![Location](https://img.shields.io/badge/Ubicación-Neiva,%20Huila,%20Colombia-%22FF0000.svg?style=for-the-badge&logo=Location)
@@ -133,3 +242,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

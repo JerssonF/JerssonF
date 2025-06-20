@@ -5,7 +5,6 @@
 
 
 ![Location](https://img.shields.io/badge/Ubicación-Neiva,%20Huila,%20Colombia-%22FF0000.svg?style=for-the-badge&logo=Location)
-![Teléfono](https://img.shields.io/badge/Teléfono-313438020-%23FF0000.svg?style=for-the-badge&logo=Teléfono)
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
 
 
@@ -23,7 +22,7 @@
 ## Corporación Universitaria del Huila-Corhuila.
 #### En este espacio encontrarán los proyectos y respositorios, durante mi formación académica.
 ## Mi formación Universitaria.
-## III Semetre 2023b
+## III Semestre 2023b
 * [Programación II](https://github.com/JerssonF/Programacion_II.git)
   
     
@@ -52,7 +51,7 @@
 
   
 
-##  Languages 📋
+##  Lenguajes 📋
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -62,7 +61,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-## Frameworks, Platforms and Libraries 📚 
+## Frameworks, plataformas y librerías 📚 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -74,7 +73,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
-##  Databases 💾
+##  Base de datos 💾
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -83,23 +82,23 @@
 ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 
 
-### Cloud Platforms 🌩️
+### Plataformas en la nube 🌩️
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-## DevOps Tools ⚙️
+## Herramientas DevOps ⚙️
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-## Electronics & Simulation Tools 🛠️
+## Electronics & Simulación 🛠️
 
 ![Proteus](https://img.shields.io/badge/Proteus-007CC1?style=for-the-badge&logoUrl=https://cdn.simpleicons.org/labcenter-proteus.svg&logoColor=white)
 ![Wokwi](https://img.shields.io/badge/Wokwi-4F5B93?style=for-the-badge&logoUrl=https://cdn.simpleicons.org/wokwi.svg&logoColor=white)
 
 
-##  IDEs/Editors 💻
+##  Entornos de Desarrollo/IDEs 💻
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
@@ -112,7 +111,7 @@
 
 
 
- ## Other 🥅
+ ## Otros 🥅
  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=for-the-badge&logo=apache-jmeter&logoColor=white)

@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="150"/>
   <h1>¡Hola! Soy Jersson Fabián Buitrago ## 📊 Git---
 
-## 🚀 Proyectos Destacados
+## ---
+
+## � GitHub Statsacados
 
 <div align="center">
 

@@ -1,9 +1,49 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="150"/>
-  <h1>¡Hola! Soy Jersson Fabián Buitrago 👋</h1>
-</div>
+  <h1>¡Hola! Soy Jersson Fabián Buitrago ## 📊 Git---
+
+## ---
+
+## � GitHub Statsacados
 
 <div align="center">
+
+[![Arquitectura de Software](https://github-readme-stats.vercel.app/api/pin/?username=JerssonF&repo=Arquitectura_de_Software&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/JerssonF/Arquitectura_de_Software)
+[![Microcontroladores](https://github-readme-stats.vercel.app/api/pin/?username=JerssonF&repo=Microcontroladores&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/JerssonF/Microcontroladores)
+
+[![Programación Móvil](https://github-readme-stats.vercel.app/api/pin/?username=JerssonF&repo=Programacion_movil&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/JerssonF/Programacion_movil)
+[![Base de Datos II](https://github-readme-stats.vercel.app/api/pin/?username=JerssonF&repo=Base_de_Datos_II&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/JerssonF/Base_de_Datos_II)
+
+</div><div align="center">
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JerssonF&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerssonF&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" />
+  
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  
+  <img src="https://streak-stats.demolab.com/?user=JerssonF&theme=radical&hide_border=true" width="70%" />
+  
+</div>
+
+<details>
+<summary><b>🔥 Más estadísticas</b></summary>
+<br>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JerssonF&bg_color=141321&color=a9fef7&line=f92672&point=fd971f&area=true&hide_border=true" width="100%" />
+  
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JerssonF&theme=radical&hide_border=true" width="100%" />
+  
+</div>
+
+</details>iv align="center">
   <img src="Img/banner.png" alt="Jersson Fabián Buitrago Banner" width="100%"/>
 </div>
 
@@ -38,6 +78,10 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Corporación Universitaria
 - 🖥️ **Sistemas Operativos** - Administración y programación a nivel de sistema
 - ☁️ **Cloud Computing** - Explorando Azure y contenedores Docker
 
+
+
+
+
 ## 🎓 Formación Académica
 
 ### 📚 Corporación Universitaria del Huila (CORHUILA)
@@ -71,7 +115,6 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Corporación Universitaria
 - [🖥️ Sistemas Operativos](https://github.com/JerssonF/Sistemas_Operativos.git)
 
 </details>
-
 ---
 
 ## 🛠️ Stack Tecnológico
@@ -125,40 +168,43 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Corporación Universitaria
 
 </div>
 
+
 ---
 
-## 📊 GitHub Stats
+## � Proyectos Destacados
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JerssonF&repo=Arquitectura_de_Software&theme=radical&hide_border=true)](https://github.com/JerssonF/Arquitectura_de_Software)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JerssonF&repo=Microcontroladores&theme=radical&hide_border=true)](https://github.com/JerssonF/Microcontroladores)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JerssonF&repo=Programacion_movil&theme=radical&hide_border=true)](https://github.com/JerssonF/Programacion_movil)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JerssonF&repo=Base_de_Datos_II&theme=radical&hide_border=true)](https://github.com/JerssonF/Base_de_Datos_II)
+
+</div>
+
+---
+
+## �📊 GitHub Stats
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JerssonF&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerssonF&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JerssonF&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerssonF&layout=compact&theme=radical&hide_border=true" />
   
 </div>
-
-<div align="center" style="margin: 20px 0;">
-  
-  <img src="https://streak-stats.demolab.com/?user=JerssonF&theme=radical&hide_border=true" width="70%" />
-  
-</div>
-
-<details>
-<summary><b>🔥 Más estadísticas</b></summary>
-<br>
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JerssonF&bg_color=141321&color=a9fef7&line=f92672&point=fd971f&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JerssonF&theme=radical&hide_border=true" width="60%" />
   
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JerssonF&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JerssonF&theme=react-dark&hide_border=true" width="100%" />
   
 </div>
-
-</details>
 
 ---
 
@@ -168,20 +214,6 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Corporación Universitaria
   
   <img src="https://github-profile-trophy.vercel.app/?username=JerssonF&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
   
-</div>
-
----
-
-## 🚀 Proyectos Destacados
-
-<div align="center">
-
-[![Arquitectura de Software](https://github-readme-stats.vercel.app/api/pin/?username=JerssonF&repo=Arquitectura_de_Software&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/JerssonF/Arquitectura_de_Software)
-[![Microcontroladores](https://github-readme-stats.vercel.app/api/pin/?username=JerssonF&repo=Microcontroladores&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/JerssonF/Microcontroladores)
-
-[![Programación Móvil](https://github-readme-stats.vercel.app/api/pin/?username=JerssonF&repo=Programacion_movil&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/JerssonF/Programacion_movil)
-[![Base de Datos II](https://github-readme-stats.vercel.app/api/pin/?username=JerssonF&repo=Base_de_Datos_II&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/JerssonF/Base_de_Datos_II)
-
 </div>
 
 ---
@@ -237,12 +269,13 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Corporación Universitaria
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

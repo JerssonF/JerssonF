@@ -1,10 +1,37 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="150"/>
-  <h1>¡Hola! Soy Jersson Fabián Buitrago 👋</h1>
-  <h3>Systems Engineering Student | Full Stack Developer | Tech Enthusiast</h3>
-</div>
+  <h1>¡Hola! Soy Jersson Fabián Buitrago ## 📊 GitHub Stats
 
 <div align="center">
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JerssonF&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerssonF&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JerssonF&theme=radical&hide_border=true" width="70%" />
+  
+</div>
+
+<details>
+<summary><b>🔥 Más estadísticas</b></summary>
+<br>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JerssonF&theme=react-dark&hide_border=true&area=true" width="100%" />
+  
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JerssonF&theme=radical" width="100%" />
+  
+</div>
+
+</details>iv align="center">
   <img src="Img/banner.png" alt="Jersson Fabián Buitrago Banner" width="100%"/>
 </div>
 
@@ -31,6 +58,13 @@
 ## 👨‍💻 Sobre mí
 
 Soy estudiante de **Ingeniería de Sistemas** en la **Corporación Universitaria del Huila (CORHUILA)**, apasionado por el desarrollo de software, las nuevas tecnologías y la innovación. Actualmente explorando diferentes áreas de la programación y desarrollando proyectos académicos que me permiten crecer profesionalmente.
+
+### 🌱 Actualmente aprendiendo:
+- 🏗️ **Arquitectura de Software** - Patrones de diseño y mejores prácticas
+- 🔬 **Microcontroladores** - IoT y sistemas embebidos con Arduino
+- 🌐 **Telemática** - Redes y comunicaciones
+- 🖥️ **Sistemas Operativos** - Administración y programación a nivel de sistema
+- ☁️ **Cloud Computing** - Explorando Azure y contenedores Docker
 
 
 
@@ -71,82 +105,75 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Corporación Universitaria
 </details>
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
+
+<div align="center">
 
 ### 💻 Lenguajes de Programación
-<div align="center">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
+### 🌐 Desarrollo Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-</div>
+### 🔧 Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-### 🚀 Frameworks & Librerías
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
+### 📱 Desarrollo Móvil
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 ### 🗄️ Bases de Datos
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-<div align="center">
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-</div>
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 🛠️ Herramientas de Desarrollo
-<div align="center">
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-### ⚡ Electrónica & Simulación
-<div align="center">
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-007CC1?style=for-the-badge&logoColor=white)
-![Wokwi](https://img.shields.io/badge/Wokwi-4F5B93?style=for-the-badge&logoColor=white)
+### ⚡ Electrónica & IoT
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)
 
 </div>
 
 
 ---
 
-## 📊 GitHub Stats
+## � Proyectos Destacados
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JerssonF&repo=Arquitectura_de_Software&theme=radical&hide_border=true)](https://github.com/JerssonF/Arquitectura_de_Software)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JerssonF&repo=Microcontroladores&theme=radical&hide_border=true)](https://github.com/JerssonF/Microcontroladores)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JerssonF&repo=Programacion_movil&theme=radical&hide_border=true)](https://github.com/JerssonF/Programacion_movil)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JerssonF&repo=Base_de_Datos_II&theme=radical&hide_border=true)](https://github.com/JerssonF/Base_de_Datos_II)
+
+</div>
+
+---
+
+## �📊 GitHub Stats
 
 <div align="center">
   
@@ -179,15 +206,39 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Corporación Universitaria
 
 ---
 
-## 📫 Conecta conmigo
+## 📫 Conectemos
 
 <div align="center">
 
-¿Tienes algún proyecto interesante? ¿Quieres colaborar? ¡No dudes en contactarme!
+### 💬 ¿Interesado en colaborar o tienes alguna pregunta?
+
+**Siempre estoy abierto a nuevas oportunidades de aprendizaje y colaboración**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30"/>
+<br><b>Email</b>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>
+<br><b>LinkedIn</b>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="30"/>
+<br><b>WhatsApp</b>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/github--v1.png" width="30"/>
+<br><b>GitHub</b>
+</td>
+</tr>
+</table>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JerssonF)
 
 </div>
 

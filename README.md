@@ -32,11 +32,11 @@
 Soy estudiante de **Ingeniería de Sistemas** en la **Corporación Universitaria del Huila (CORHUILA)**, apasionado por el desarrollo de software, las nuevas tecnologías y la innovación. Actualmente explorando diferentes áreas de la programación y desarrollando proyectos académicos que me permiten crecer profesionalmente.
 
 ### 🌱 Actualmente aprendiendo:
-- 🏗️ **Arquitectura de Software** - Patrones de diseño y mejores prácticas
-- 🔬 **Microcontroladores** - IoT y sistemas embebidos con Arduino
-- 🌐 **Telemática** - Redes y comunicaciones
-- 🖥️ **Sistemas Operativos** - Administración y programación a nivel de sistema
-- ☁️ **Cloud Computing** - Explorando Azure y contenedores Docker
+- 🧪 **Calidad de Software**
+- 🌐 **Telemática II**
+- � **Investigación de Operaciones**
+- � **Ingeniería Económica**
+- ⛏️ **Minería de Datos**
 
 ## 🎓 Formación Académica
 
@@ -62,13 +62,21 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Corporación Universitaria
 - [🗃️ Bases de Datos II](https://github.com/JerssonF/Base_de_Datos_II.git)
 - [📊 Probabilidad y Estadística](https://github.com/JerssonF/Probabilidad_Estadistica.git)
 
-### 🔹 VI Semestre (2025-A) - Actual
+### 🔹 VI Semestre (2025-A)
 - [🏗️ Arquitectura de Software](https://github.com/JerssonF/Arquitectura_de_Software.git)
 - [🔬 Microcontroladores](https://github.com/JerssonF/Microcontroladores.git)
 - [📈 Análisis Financiero](https://github.com/JerssonF/Análisis_Financiero.git)
 - [🌐 Telemática I](https://github.com/JerssonF/Telem-tica.git)
 - [🔬 Metodología de la Investigación](https://github.com/JerssonF/Metodología_de_la_Investigación.git)
 - [🖥️ Sistemas Operativos](https://github.com/JerssonF/Sistemas_Operativos.git)
+
+### 🔹 VII Semestre (2025-B) - Actual
+
+- [🧪 Calidad de Software](https://github.com/JerssonF/Calidad-de-Software.git)
+- [🌐 Telemática II](https://github.com/JerssonF/Telematica-II.git)
+- [📊 Investigación de Operaciones](https://github.com/JerssonF/Investigación_de_Operaciones.git)
+- [📈 Ingeniería Económica](https://github.com/JerssonF/Ingenieria-Economica.git)
+- [⛏️ Minería de Datos](https://github.com/JerssonF/Mineria-de-Datos.gitx)
 
 </details>
 

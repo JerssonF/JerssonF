@@ -239,7 +239,7 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Corporación Universitaria
   <img src="https://komarev.com/ghpvc/?username=JerssonF&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
 </div>
-git shortlog -s -n
+
 
 <!--
 **JerssonF/JerssonF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
